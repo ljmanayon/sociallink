@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [](https://github.com/ljmanayon/sociallink)
+- Live Site URL: [](https://ljmanayon.github.io/sociallink/)
 
 ## My process
 
@@ -70,5 +70,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Lucsan Manayon]()
+- Website - [Lucsan Manayon](https://github.com/ljmanayon)
 - Frontend Mentor - [ljmanayon](https://www.frontendmentor.io/profile/ljmanayon)
