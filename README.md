@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/ljmanayon/sociallink)
-- Live Site URL: [](https://ljmanayon.github.io/sociallink/)
+- Solution URL: [ljmanayon/sociallink](https://github.com/ljmanayon/sociallink)
+- Live Site URL: [github/sociallink](https://ljmanayon.github.io/sociallink/)
 
 ## My process
 
